@@ -1,10 +1,11 @@
 #include "main.h"
-	/**
-	 * main - print _putchar
-	 * is written by mbah
-	 * Return: 0
-	 */
-
+/**
+         * main - print _putchar
+         * This function is the entry point of the program. It is called when the
+         * program is started and is responsible for initializing the program and
+         * calling other functions that perform the program's main tasks.
+         * Return: Always 0 (Success)
+         */
 
 	int main(void)
 	{
