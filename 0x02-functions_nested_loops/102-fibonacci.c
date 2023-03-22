@@ -1,13 +1,11 @@
 #include <stdio.h>
-
 /**
  * main - entry point
  *
  * Return: always 0
  */
-
 int main(void)
-{	
+{
 int i;
 unsigned long j = 0, k = 1, sum;
 
